@@ -1,0 +1,5 @@
+.hg/
+*.kdev4
+*~
+.kdev4/
+verse.lua
